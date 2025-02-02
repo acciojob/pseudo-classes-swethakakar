@@ -1,21 +1,17 @@
 /*  your css code here. If applicable */
-
-/*  your css code here. If applicable */
-
-body{
+:root {
 	background-color:rgb(135, 206, 235);
 }
-
-div p:first-child{
+article p:first-child{
 	color:white;
 	background-color:black;
 }
 
-div p:nth-child(2){
+article p:nth-child(2){
 	/* No styling applied yet */
 }
 
-div p:last-child{
+article p:last-child{
 	color:red;
 }
 
